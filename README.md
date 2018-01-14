@@ -4,4 +4,12 @@
 if you don't know syntax using this  
 ![](markdown-cheatsheet-online.png)
 
+## Content  
+   1. when write code ```
+```javascript 
+function() {
+    const this;
+}
+```
+
 
