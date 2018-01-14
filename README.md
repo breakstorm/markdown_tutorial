@@ -23,4 +23,10 @@ function() {
 ## Style 2  
 ### Style 3  
 #### Style 4   
-> Style 5
+> Style 5  
+
+   4. Text style   
+*text style1*  : italic  
+**text style2**  : bold  
+***text style3***   : italic + bold   
+~text style4~   : strikethrough    
