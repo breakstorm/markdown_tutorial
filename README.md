@@ -2,14 +2,18 @@
 
 ## write below whatever you want using markdown syntax. 
 if you don't know syntax using this  
-![](markdown-cheatsheet-online.png)
+![image]
 
 ## Content  
-   1. when write code ```
+   1. when write code : ```
 ```javascript 
 function() {
     const this;
 }
 ```
 
+   2. insert image file : \[]  
+![image]  
+
+[image]:markdown-cheatsheet-online.png  
 
